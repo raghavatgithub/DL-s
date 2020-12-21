@@ -4,6 +4,7 @@ Trying Basic Deep Learning Projects :p
 1. Face Mask Detection
 2. Driver Drowsiness Detection
 3. Video Summarization
+4. Handwritten equation solver using CNN
 
 A. FACE MASK DETECTION - 
 This project is focussed on detecting whether an individual is wearing a mask or not.
