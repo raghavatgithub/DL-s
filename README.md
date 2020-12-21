@@ -13,3 +13,5 @@ B. DRIVER DROWSINESS DETECTION -
 This project is focussed on alerting a driver while he is detected appearing drowsy by playing an alarm.
 The input will be a live video stream.
 
+OpenCv - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+(https://opencv.org/)
